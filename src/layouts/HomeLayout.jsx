@@ -4,7 +4,6 @@ import LatestNews from "../components/LatestNews";
 import Navbar from "../components/Navbar";
 import LeftNavbar from "../components/layout-component/LeftNavbar";
 import RightNavbar from "../components/layout-component/RightNavbar";
-import CategoryNews from "../pages/CategoryNews";
 import { Outlet } from "react-router-dom";
 
 const HomeLayout = () => {
